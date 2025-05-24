@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/status-deprecated-red" />
+
 # JMCalloutsRemastered
  Callouts for LSPDFR 0.4.9 (LATEST BUILD)
  
